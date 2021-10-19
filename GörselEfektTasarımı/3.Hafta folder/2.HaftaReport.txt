@@ -1,0 +1,34 @@
+Report created: 
+	19.10.2021	10:20:06
+
+Project name: 2.Hafta.aep
+
+Source files collected to: 
+	C:\Users\B109-01\Desktop\3.Hafta folder
+
+Source files collected: All
+
+Collected comps:  
+	df5f91fe9428aa675832c7a33b1ac84e
+	
+Number of collected files:  3
+
+Size of collected files:  87 KB
+
+Collected source files: 
+	C:\Users\B109-01\Desktop\251003460017202.webp
+	C:\Users\B109-01\Desktop\Digital-Design-main\GörselEfektTasarımı\df5f91fe9428aa675832c7a33b1ac84e.jpg
+	C:\Users\B109-01\Desktop\maxresdefault.jpg
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Paint
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Times New Roman”, Font style: “Regular”
+
