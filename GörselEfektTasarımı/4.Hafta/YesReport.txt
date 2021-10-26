@@ -1,0 +1,28 @@
+Report created: 
+	26.10.2021	09:52:27
+
+Project name: Yes.aep
+
+Source files collected to: 
+	C:\Users\B109-01\Desktop\Eren folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	
+Number of collected files:  1
+
+Size of collected files:  1,9 MB
+
+Collected source files: 
+	C:\Users\B109-01\Desktop\Digital-Design-main\GörselEfektTasarımı\4.Hafta\(Footage)\female-hand-holding-smartphone-with-blank-screen.jpg
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Puppet
+	
+
