@@ -1,0 +1,20 @@
+Report created: 
+	9.11.2021	12:21:30
+
+Project name: main.aep
+
+Source files collected to: 
+	C:\Users\B109-01\Desktop\6.Hafta
+
+Source files collected: None
+
+Collected comps:  
+	Comp 1
+	
+Number of collected files:  0
+
+Size of collected files:  0 KB
+
+Rendering plug-ins:
+	Classic 3D
+	
