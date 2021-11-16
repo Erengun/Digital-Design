@@ -1,0 +1,23 @@
+Report created: 
+	16.11.2021	09:57:37
+
+Project name: Untitled Project.aep
+
+Source files collected to: 
+	C:\Users\B109-01\Desktop\8.Hafta
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	
+Number of collected files:  1
+
+Size of collected files:  16 KB
+
+Collected source files: 
+	C:\Users\B109-01\Desktop\bal01.gif
+	
+Rendering plug-ins:
+	Classic 3D
+	
