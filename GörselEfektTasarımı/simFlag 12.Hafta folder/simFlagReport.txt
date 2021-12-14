@@ -1,0 +1,27 @@
+Report created: 
+	14.12.2021	11:37:58
+
+Project name: simFlag.aep
+
+Source files collected to: 
+	C:\Users\B109-01\Desktop\simFlag 12.Hafta folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	
+Number of collected files:  5
+
+Size of collected files:  3,1 MB
+
+Collected source files: 
+	C:\Users\B109-01\Desktop\220px-Flag_of_the_Ottoman_Empire_(1844–1922).svg.png
+	C:\Users\B109-01\Desktop\flags.png
+	C:\Users\B109-01\Desktop\reverseFlag.png
+	C:\Users\B109-01\Desktop\yes.png
+	C:\Users\B109-01\Downloads\top-view-three-different-sized-sim-cards.jpg
+	
+Rendering plug-ins:
+	Classic 3D
+	
