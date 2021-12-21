@@ -1,0 +1,8 @@
+  21.12.2021 12:00:22: Starting composition “Comp 1”.
+
+  Output To: C:\Users\B109-01\Desktop\GörselEfektTasarımı\simFlag 12.Hafta folder\SimADfinish.avi    21.12.2021 12:00:41: Finished composition “Comp 1”.
+
+
+  Total Time Elapsed: 19 Seconds
+Log closed on 21.12.2021 at 12:00:41
+
